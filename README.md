@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/v2/gh/Nehaal1-ctrl/Linear_Modeling_Script_R.git/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nehaal1-ctrl/Linear_Modeling_Script_R.git/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
